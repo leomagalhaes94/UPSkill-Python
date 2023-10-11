@@ -20,7 +20,6 @@ By the end of this course, you will:
 ## Course Details
 
 - Duration: 9 months
-- Instructor: Professor Francisco Soares
 - Institution: ESTGL (Escola Superior de Tecnologia e Gestão de Lamego), Lamego, Portugal
 
 ## Course Contents
@@ -106,10 +105,4 @@ Throughout the course, you'll be provided with relevant learning resources, code
 
 Wishing you an exciting and rewarding experience as you dive into the world of Python programming!
 
-## Contact Information
-
-For any inquiries or assistance, please contact:
-
-Professor Francisco Soares
-Email: [fsoares@estgl.ipv.pt](mailto:fsoares@estgl.ipv.pt)
 
