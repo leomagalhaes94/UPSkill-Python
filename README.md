@@ -1,6 +1,6 @@
 # UPskill - Intensive Python
 
-Welcome to the UPskill - Intensive Python course curated by Professor Francisco Soares of ESTGL in Lamego, Portugal. This course is designed to provide you with a comprehensive understanding of the Python programming language and its applications. Whether you're a beginner with no prior programming experience or an experienced programmer looking to expand your skill set, this course will equip you with the knowledge and practical skills to excel in Python development.
+Welcome to the UPskill - Intensive Python course. This course is designed to provide you with a comprehensive understanding of the Python programming language and its applications. Whether you're a beginner with no prior programming experience or an experienced programmer looking to expand your skill set, this course will equip you with the knowledge and practical skills to excel in Python development.
 
 ## Course Description
 
